@@ -8,7 +8,7 @@ This guide outlines an installation that supports XS4ALL IP and IPTV through a D
 
 Internet ↔ DrayTek [P1] ↔ router with PPPoE capabilities ↔ VLAN-enabled switch ↔ home network. A schematic diagram.
 
-<img src="assets/XS4ALL_Draytek.png" alt="Diagram" style="zoom:80%;" />
+<img src="assets/XS4ALL_DrayTek.png" alt="XS4ALL_DrayTek" style="zoom:45%;" />
 
 Internet through XS4ALL; [DrayTek Vigor2765 Annex A](https://www.routershop.nl/draytek-vigor-2765-annex-a-adsl2-en-vdsl2-router/pid=63348); router can be anything that supports PPPoE with VLAN, I have a [Meraki MX65](https://documentation.meraki.com/MX/MX_Overviews_and_Specifications/MX64_and_MX65_Overview_and_Specifications); I use a [NETGEAR GS105Ev2](https://www.netgear.com/support/product/GS105Ev2.aspx) to support VLAN tagging. On the home network I have two XS4ALL TV boxes (one Arris VIP 2952, one Motorola VIP 1853).
 
