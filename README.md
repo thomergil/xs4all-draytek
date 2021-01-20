@@ -102,7 +102,7 @@ Configure "VLAN Membership". When either a port is labelled T (tag) or U (untag)
 Under "Port PVID" (unsure this configuration matters all that much, but this works):
 
 1. 6 (Internet traffic between MX65, Internet 1 port and Draytek Vigor 2765)
-2. 6 (idem)
+2. 6 (same)
 3. 1 (regular LAN)
 4. 4 (TV traffic)
 5. 1 (regular LAN, to one of MX65's LAN ports)
@@ -115,4 +115,4 @@ Under "Port PVID" (unsure this configuration matters all that much, but this wor
 * [PPPoE Pass-Through Setup](https://www.draytek.com/support/knowledge-base/4910), DrayTek KB Article, though not with VLAN pass-through.
 * [Instellingen voor andere modems](https://www.xs4all.nl/service/installeren/internet/instellingen-andere-modems/), XS4ALL information about modem settings, in Dutch.
 * [Eigen router achter een XS4ALL-VDSL-aansluiting (4)](https://www.haroldschoemaker.nl/2017/02/eigen-router-achter-een-xs4all-vdsl-aansluiting-4/), in Dutch.
-* [Newsgroup discussion about XS4ALL DSL](https://xs4all.adsl.narkive.com/mvDJ31yK/hik-dsl-blijft-prima-up-maar-ppp-sessie-weg), in Dutch.
+* [Forum discussion about XS4ALL DSL](https://xs4all.adsl.narkive.com/mvDJ31yK/hik-dsl-blijft-prima-up-maar-ppp-sessie-weg), in Dutch.
