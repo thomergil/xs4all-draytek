@@ -6,7 +6,7 @@ This guide outlines an installation that supports XS4ALL IP and IPTV through a D
 
 ### Setup
 
-Internet ↔ DrayTek [P1] ↔ router with PPPoE capabilities ↔ VLAN-enabled switch ↔ home network. A schematic diagram.
+Internet ↔ DrayTek [P1] ↔ router with PPPoE capabilities ↔ VLAN-enabled switch ↔ home network.
 
 <img src="assets/XS4ALL_DrayTek.png" alt="XS4ALL_DrayTek" style="zoom:45%;" />
 
