@@ -113,6 +113,7 @@ Under "Port PVID" (unsure this configuration matters all that much, but this wor
 
 * [Use Vigor130 as a Bridge](https://www.draytek.com/support/knowledge-base/5367), DrayTek KB Article, explains VLAN pass-through.
 * [PPPoE Pass-Through Setup](https://www.draytek.com/support/knowledge-base/4910), DrayTek KB Article, though not with VLAN pass-through.
-* [Instellingen voor andere modems](https://www.xs4all.nl/service/installeren/internet/instellingen-andere-modems/), XS4ALL information about modem settings, in Dutch.
-* [Eigen router achter een XS4ALL-VDSL-aansluiting (4)](https://www.haroldschoemaker.nl/2017/02/eigen-router-achter-een-xs4all-vdsl-aansluiting-4/), in Dutch.
-* [Forum discussion about XS4ALL DSL](https://xs4all.adsl.narkive.com/mvDJ31yK/hik-dsl-blijft-prima-up-maar-ppp-sessie-weg), in Dutch.
+* [Instellingen voor andere modems](https://www.xs4all.nl/service/installeren/internet/instellingen-andere-modems/), XS4ALL information about modem settings, in Dutch 🇳🇱.
+* [Eigen router achter een XS4ALL-VDSL-aansluiting (4)](https://www.haroldschoemaker.nl/2017/02/eigen-router-achter-een-xs4all-vdsl-aansluiting-4/), in Dutch 🇳🇱.
+* [XS4ALL met eigen modem/router](https://xs4all.gebruikers.eu/forum/viewforum.php?forum_id=16), discussion forum, in Dutch 🇳🇱.
+* [Forum discussion about XS4ALL DSL](https://xs4all.adsl.narkive.com/mvDJ31yK/hik-dsl-blijft-prima-up-maar-ppp-sessie-weg), in Dutch 🇳🇱.
